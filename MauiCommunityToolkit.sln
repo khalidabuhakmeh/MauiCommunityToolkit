@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiCommunityToolkit", "MauiCommunityToolkit\MauiCommunityToolkit.csproj", "{3998BCB5-4012-476C-BBB5-8637C9A572DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3998BCB5-4012-476C-BBB5-8637C9A572DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3998BCB5-4012-476C-BBB5-8637C9A572DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3998BCB5-4012-476C-BBB5-8637C9A572DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3998BCB5-4012-476C-BBB5-8637C9A572DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
